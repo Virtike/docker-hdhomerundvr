@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.9.16
-MAINTAINER Yoshiofthewire <Yoshi@urlxl.com>
+MAINTAINER Virtike <Virtike@github>
 #Based on the work of gfjardim <gfjardim@gmail.com>
 
 #########################################
